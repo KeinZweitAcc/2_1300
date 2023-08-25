@@ -2,7 +2,7 @@
 
 Manuel Greub
 
-##Informieren
+## Informieren
 
 Als Informationsquelle habe ich für dieses Proejkt einen [Kurs von Udemy](https://www.udemy.com/course/basics-of-object-oriented-programming-with-csharp/) verwendet.
 Ausserdem habe ich mir die Arbeitsaufträge des Moduls 320 noch einmal angeschaut, um zu sehen, was mir noch Probleme bereitet.
@@ -10,7 +10,7 @@ Ausserdem habe ich mir die Arbeitsaufträge des Moduls 320 noch einmal angeschau
 Mit den oben genannten Informationen habe ich mich anschliessend dazu entschieden, eine Applikation zu entwickeln, welche eine To-Do Liste in der Konsole erstellen kann.
 
 
-##Planen
+## Planen
 
 | Datum | Arbeitspaket | Verantwortliche Person  | 
 | ---- | --------------- | ---- |
