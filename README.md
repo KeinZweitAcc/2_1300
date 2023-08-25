@@ -17,7 +17,7 @@ Mit den oben genannten Informationen habe ich mich anschliessend dazu entschiede
 |18.08.23| Udemy-Kurs abschliessen | Manuel Greub |
 |18.08.23| Probleme bei Aufträgen suchen | Manuel Greub |
 |18.08.23| Projektdokumentation erstellen | Manuel Greub |
-|25.08.23| Es soll eine Liste erstellt werden können | Manuel Greub |
-|25.08.23| Eine Liste soll Eigenschaften haben wie Aufgabe, Datum, Relevanz, Erledigt etc. | Manuel Greub |
+|25.08.23| Es soll eine Aufgabe erstellt werden können | Manuel Greub |
+|25.08.23| Eine Aufgabe soll Eigenschaften haben wie Beschreibung, Datum, Relevanz, Erledigt etc. | Manuel Greub |
 |01.09.23| Die Liste soll in der Konsole ausgegeben werden können | Manuel Greub |
 |01.09.23| Eigenschaften von Aufgaben sollen geändert werden können mit Hilfe von einfachen Befehlen | Manuel Greub |
