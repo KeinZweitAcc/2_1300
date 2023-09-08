@@ -24,7 +24,9 @@ Mit den oben genannten Informationen habe ich mich anschliessend dazu entschiede
 |01.09.23| Die Aufgaben sollen gespeichert werden können | Manuel Greub |
 
 
-##Testen
+## Testen
+
+### Testfälle
 
 | Nr  | Ausgangslage    |     Eingabe       |   Erwartete Ausgabe |
 | ---  | -------------  |   --------------  |  ----------------   |
@@ -38,6 +40,8 @@ Mit den oben genannten Informationen habe ich mich anschliessend dazu entschiede
 |  8  | Aufgabe Erstellt   | edit         |   Fehlerhafte Eingabe |
 |  9  | Programm gestartet | exit         |   *Programm schliesst sich* |
 | 10  | Aufgabe erstellt, Programm schliessen, Programm öffnen | list  |  *Vorherige Aufgabe wird angezeigt* |
+
+### Testdurchführung 
 
 | Testfall | Datum | Resultat | Tester  |
 | ------- | ----- | --------- | ------  |
